@@ -37,3 +37,19 @@ While my LeetCode solutions show my technical prowess, my LinkedIn gives you a g
 
 Thank you for visiting, and happy coding! If you have any questions or just want to chat about coding, feel free to reach out.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+<!---LeetCode Topics End-->
