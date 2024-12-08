@@ -7,5 +7,6 @@ class Solution {
         }
         Arrays.sort(result);
         return result;
-    }
+        //Time Complexity: O(n) + O(nLog(n)) ~ O(nLog(n))
+    } 
 }
