@@ -67,4 +67,20 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
