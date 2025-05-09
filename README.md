@@ -1,6 +1,6 @@
 # LEETCODE
 
-Welcome to my LeetCode playground! Ã°ÂÂ§Â©Ã¢ÂÂ¨
+Welcome to my LeetCode playground! ÃÂ°ÃÂÃÂ§ÃÂ©ÃÂ¢ÃÂÃÂ¨
 
 I'm Rahul Sahani, and I've been on a coding adventure, tackling various problems on LeetCode. Feel free to explore my solutions and see the strategies I've used to conquer these challenges. 
 
@@ -11,7 +11,7 @@ I'm Rahul Sahani, and I've been on a coding adventure, tackling various problems
 ## Why LeetCode?
 - **Sharpening Skills**: It's the perfect place to keep my coding skills razor-sharp.
 - **Learning New Techniques**: Every problem is a new lesson, teaching me more about algorithms and data structures.
-- **Having Fun**: Yes, solving problems can be funÃ¢ÂÂlike a treasure hunt, but with more coffee and fewer pirates.
+- **Having Fun**: Yes, solving problems can be funÃÂ¢ÃÂÃÂlike a treasure hunt, but with more coffee and fewer pirates.
 
 ---
 
@@ -28,10 +28,10 @@ While my LeetCode solutions show my technical prowess, my LinkedIn gives you a g
   Because light attracts bugs!
 
 - **Why do Java developers wear glasses?**  
-  Because they donÃ¢ÂÂt see sharp.
+  Because they donÃÂ¢ÃÂÃÂt see sharp.
 
 - **How many programmers does it take to change a light bulb?**  
-  None, thatÃ¢ÂÂs a hardware problem!
+  None, thatÃÂ¢ÃÂÃÂs a hardware problem!
 
 ---
 
@@ -81,6 +81,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -102,4 +103,5 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
