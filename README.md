@@ -1,6 +1,6 @@
 # LEETCODE
 
-Welcome to my LeetCode playground! ð§©â¨
+Welcome to my LeetCode playground! Ã°ÂÂ§Â©Ã¢ÂÂ¨
 
 I'm Rahul Sahani, and I've been on a coding adventure, tackling various problems on LeetCode. Feel free to explore my solutions and see the strategies I've used to conquer these challenges. 
 
@@ -11,7 +11,7 @@ I'm Rahul Sahani, and I've been on a coding adventure, tackling various problems
 ## Why LeetCode?
 - **Sharpening Skills**: It's the perfect place to keep my coding skills razor-sharp.
 - **Learning New Techniques**: Every problem is a new lesson, teaching me more about algorithms and data structures.
-- **Having Fun**: Yes, solving problems can be funâlike a treasure hunt, but with more coffee and fewer pirates.
+- **Having Fun**: Yes, solving problems can be funÃ¢ÂÂlike a treasure hunt, but with more coffee and fewer pirates.
 
 ---
 
@@ -28,10 +28,10 @@ While my LeetCode solutions show my technical prowess, my LinkedIn gives you a g
   Because light attracts bugs!
 
 - **Why do Java developers wear glasses?**  
-  Because they donât see sharp.
+  Because they donÃ¢ÂÂt see sharp.
 
 - **How many programmers does it take to change a light bulb?**  
-  None, thatâs a hardware problem!
+  None, thatÃ¢ÂÂs a hardware problem!
 
 ---
 
@@ -61,6 +61,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -97,4 +98,8 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
