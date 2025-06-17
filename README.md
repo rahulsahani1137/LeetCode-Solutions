@@ -45,6 +45,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -72,10 +73,12 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -94,6 +97,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -114,9 +118,11 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
