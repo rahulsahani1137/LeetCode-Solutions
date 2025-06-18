@@ -76,6 +76,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -100,12 +101,14 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
